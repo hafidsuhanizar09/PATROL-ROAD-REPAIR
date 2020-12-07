@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PatrolRoadRepair</string>
+    <string name="admin">ADMIN</string>
+    <string name="user">USER</string>
+    <string name="facebook">Facebook</string>
+    <string name="google">Google</string>
+    <string name="register">Register</string>
+    <string name="login">Login</string>
+    <string name="input_foto">Input Foto</string>
+    <string name="text_jalan_1">Ridwan kamil berhasil memperbaiki jalan rusak di daerah bandung kota</string>
+</resources>
